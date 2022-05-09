@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root{
+    --font-primary: "roboto", serif;
+    --font-secundary: "roboto", serif;
+    --font-third: "roboto", serif;
+}
+
+header{
+    height:  30vh;
+    
+}
+
+.title{
+    font-family: var(--font-primary);
+}
